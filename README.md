@@ -2,6 +2,7 @@
 <img src= "C:\Users\devan\Downloads\Banner.png" > <!-- Banner Here-->
 <div align="center">
 <p>
+  I Treat people as they treat me
 🎨 [He/Him] • Indian • Self-Passionate Enthusiast • Student & Dev <br>
 ⌨️ Python • Learning CSS/HTML alongside JS • Visual Studio Code <br>
 🕐 Discord • Music • Anime • Code • GitHub • PC Games "Minecraft most of the time" <br>
