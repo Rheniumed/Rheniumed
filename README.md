@@ -4,21 +4,12 @@
 <p>
 🎨 [He/Him] • Indian • Self-Passionate Enthusiast • Student & Dev <br>
 ⌨️ Python • Learning CSS/HTML alongside JS • Visual Studio Code <br>
-🕐 Discord • Music • Anime • Code • GitHub • PC Games <br>
+🕐 Discord • Music • Anime • Code • GitHub • PC Games "Minecraft most of the time" <br>
 
 
 
 <hr>
-<!-- <p>
-<h3> 🛠️Languages & Tools </h3>
 
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src = "./media//css3.png"> </a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src = "./media//html-5.png"> </a>
-  <a href = "https://heroku.com"> <img src = "./media//heroku.png"> </a>
-  <a href = "https://python.org"> <img src = "./media//python.png"> </a>
-  <a href = "https://https://code.visualstudio.com/"> <img src = "./media//vs-code.png"> </a>
-</p>
-<hr> -->
 
 
 
