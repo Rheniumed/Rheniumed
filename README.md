@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there, I'm a 19 year old student currently studying Law from India and a passionate worldbuilding writer for RPG style games. I'm also an avid reader and love to write fantasy oriented stories and world concepts of my own.<br><br>
+Hey there, I'm a 19 year old student currently studying Law from India and a passionate worldbuilding writer for RPG style games.<br>
+I'm also an avid reader and love to write fantasy oriented stories and world concepts of my own.<br>
 Currently working on Erased, a series of video games that take place in the Erased Universe, a project of mine.<br>Delving into 2D Game design and art.<br>Law Student, part time freelance game writer.<br><br>"Currently looking for Concept Artists for Project Erased"
 
 
